@@ -17,8 +17,7 @@ export default (node) => {
     }
 
     const style = window.getComputedStyle(parent);
-    const position = style.position;
-    const overflow = style.overflow;
+    const { position, overflow } = style;
     const overflowX = style['overflow-x'];
     const overflowY = style['overflow-y'];
 
