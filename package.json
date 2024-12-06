@@ -1,6 +1,6 @@
 {
   "name": "@stordata/react-lazyload",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Lazyload your components, images or anything where performance matters.",
   "main": "lib/index.js",
   "scripts": {
